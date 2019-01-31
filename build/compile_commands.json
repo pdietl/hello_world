@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/home/pdietl/git/hello_world/build",
+    "command": "cc -Ihello_world@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -g -D_GNU_SOURCE -D_DEFAULT_SOURCE  -MD -MQ 'hello_world@exe/main.c.o' -MF 'hello_world@exe/main.c.o.d' -o 'hello_world@exe/main.c.o' -c ../main.c",
+    "file": "../main.c"
+  }
+]
